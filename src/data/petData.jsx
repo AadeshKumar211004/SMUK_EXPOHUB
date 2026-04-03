@@ -1,0 +1,148 @@
+const petData = [
+  {
+    id: 1,
+    image: "/pet.jpeg",
+    title: "Dog Wear",
+    name: "Dog T-Shirt",
+    Product_Code:"PD-101",
+  },
+  {
+    id: 2,
+    image: "/pet.jpeg",
+    title: "Dog Wear",
+    name: "Winter Jacket",
+    Product_Code:"PD-102",
+  },
+  {
+    id: 3,
+    image: "/pet.jpeg",
+    title: "Accessories",
+    name: "Dog Collar",
+    Product_Code:"PD-103",
+  },
+  {
+    id: 4,
+    image: "/pet.jpeg",
+    title: "Accessories",
+    name: "Pet Leash",
+    Product_Code:"PD-104",
+  },
+
+  {
+    id: 5,
+    image: "/pet.jpeg",
+    title: "Dog Wear",
+    name: "Raincoat",
+    Product_Code:"PD-105",
+  },
+  {
+    id: 6,
+    image: "/pet.jpeg",
+    title: "Accessories",
+    name: "Pet Bed",
+    Product_Code:"PD-106",
+  },
+  {
+    id: 7,
+    image: "/pet.jpeg",
+    title: "Accessories",
+    name: "Food Bowl",
+    Product_Code:"PD-107",
+  },
+  {
+    id: 8,
+    image: "/pet.jpeg",
+    title: "Dog Wear",
+    name: "Sweater",
+    Product_Code:"PD-108",
+  },
+
+  // {
+  //   id: 9,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Toys",
+  //   size: "Free Size",
+  // },
+  // {
+  //   id: 10,
+  //   image: "/pet.jpeg",
+  //   title: "Dog Wear",
+  //   name: "Hoodie",
+  //   size: "S, M, L",
+  // },
+  // {
+  //   id: 11,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Carrier",
+  //   size: "M, L",
+  // },
+  // {
+  //   id: 12,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Shampoo",
+  //   size: "Free Size",
+  // },
+
+  // {
+  //   id: 13,
+  //   image: "/pet.jpeg",
+  //   title: "Dog Wear",
+  //   name: "Printed T-Shirt",
+  //   size: "S, M, L",
+  // },
+  // {
+  //   id: 14,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Brush",
+  //   size: "Free Size",
+  // },
+  // {
+  //   id: 15,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Blanket",
+  //   size: "M, L",
+  // },
+  // {
+  //   id: 16,
+  //   image: "/pet.jpeg",
+  //   title: "Dog Wear",
+  //   name: "Thermal Wear",
+  //   size: "S, M, L",
+  // },
+
+  // {
+  //   id: 17,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Bag",
+  //   size: "Free Size",
+  // },
+  // {
+  //   id: 18,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Shoes",
+  //   size: "S, M, L",
+  // },
+  // {
+  //   id: 19,
+  //   image: "/pet.jpeg",
+  //   title: "Dog Wear",
+  //   name: "Jacket",
+  //   size: "M, L",
+  // },
+  // {
+  //   id: 20,
+  //   image: "/pet.jpeg",
+  //   title: "Accessories",
+  //   name: "Pet Comb",
+  //   size: "Free Size",
+  // },
+];
+
+export default petData;
